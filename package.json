@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-styledinappbrowser",
+  "name": "cordova-plugin-styledbrowser",
   "version": "0.1.1",
-  "description": "Cordova StyledInAppBrowser Plugin",
+  "description": "Cordova StyledBrowser Plugin",
   "cordova": {
-    "id": "cordova-plugin-styledinappbrowser",
+    "id": "cordova-plugin-styledbrowser",
     "platforms": [
       "android",
       "amazon-fireos",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vsvanshi/StyledInAppBrowser.git"
+    "url": ""
   },
   "keywords": [
     "cordova",

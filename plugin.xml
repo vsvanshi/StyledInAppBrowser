@@ -19,15 +19,13 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="cordova-plugin-styledinappbrowser"
+           id="cordova-plugin-styledbrowser"
       version="0.1.1">
 
     <name>StyledInAppBrowser</name>
     <description>A custom extension of cordova inappbrowser</description>
     <license>Apache 2.0</license>
     <keywords>cordova,in,app,browser,styled,custom</keywords>
-    <repo>https://github.com/vsvanshi/StyledInAppBrowser.git</repo>
-    <issue>https://github.com/vsvanshi/StyledInAppBrowser.git</issue>
 
     <engines>
       <engine name="cordova" version=">=3.1.0" />
