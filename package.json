@@ -1,0 +1,41 @@
+{
+  "name": "cordova-plugin-styledinappbrowser",
+  "version": "0.1.1",
+  "description": "Cordova StyledInAppBrowser Plugin",
+  "cordova": {
+    "id": "cordova-plugin-styledinappbrowser",
+    "platforms": [
+      "android",
+      "amazon-fireos",
+      "ubuntu",
+      "ios",
+      "wp7",
+      "wp8",
+      "windows8",
+      "windows",
+      "firefoxos"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vsvanshi/StyledInAppBrowser.git"
+  },
+  "keywords": [
+    "cordova",
+    "in",
+    "app",
+    "browser",
+    "custominappbrowser",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.1.0"
+    }
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache 2.0"
+}
